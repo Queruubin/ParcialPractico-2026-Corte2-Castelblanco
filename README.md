@@ -5,6 +5,15 @@
 
 <span style="color:red; font-size: 15px;">Al final del readme se pueden evidenciar las capturas de pantalla con las pruebas de los curls y swagger</span>.
 
+
+
+## Pruebas exitosas jeje 👯‍♀️
+![alt text](image.png)
+
+## Swagger
+
+![alt text](image-1.png)
+
 ---
 
 ## 📋 Requisitos
@@ -86,11 +95,3 @@ src/main/java/edu/eci/arsw/blueprints
    - Código fuente actualizado.
    - Swagger/OpenAPI habilitado.  
    - Clase `ApiResponse<T>` implementada.
-
-
-## Pruebas exitosas jeje 👯‍♀️
-![alt text](image.png)
-
-## Swagger
-
-![alt text](image-1.png)
