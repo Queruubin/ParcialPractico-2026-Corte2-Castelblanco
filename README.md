@@ -1,5 +1,9 @@
-## Parcial Práctico Corte 2 – REST API Blueprints (Java 21 / Spring Boot 3.3.x)
-# Escuela Colombiana de Ingeniería – Arquitecturas de Software  
+# Samuel Felipe Castelblanco Téllez
+### Parcial Práctico Corte 2 – REST API Blueprints (Java 21 / Spring Boot 3.3.x)
+### Escuela Colombiana de Ingeniería – Arquitecturas de Software  
+
+
+<span style="color:red; font-size: 15px;">Al final del readme se pueden evidenciar las capturas de pantalla con las pruebas de los curls y swagger</span>.
 
 ---
 
